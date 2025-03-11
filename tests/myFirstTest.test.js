@@ -1,5 +1,4 @@
-//Jest
-//Unit testing 
+//Jest Unit testing 
 const { sum, deleteUserById, findUserById } = require("../utils/helper")
 
 
