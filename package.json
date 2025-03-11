@@ -1,7 +1,7 @@
 {
   "name": "jest_youtube",
   "version": "1.0.0",
-  "description": "",
+  "description": "My ultimate JEST Unit Testing Cheat Sheet.",
   "main": "index.js",
   "scripts": {
     "test": "jest --watchAll"
@@ -10,6 +10,17 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^27.4.7"
-  }
+    "jest": "^27.5.1"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debaosuidecl/Jest-Unit-Testing-Youtube-Tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/debaosuidecl/Jest-Unit-Testing-Youtube-Tutorial/issues"
+  },
+  "homepage": "https://github.com/debaosuidecl/Jest-Unit-Testing-Youtube-Tutorial#readme"
 }
