@@ -10,7 +10,7 @@ beforeAll(() => {
     userdata = ['Clement', 'Sarah']
     console.log("runs before all tests", userdata)
 })
-
+//running before each
 beforeEach(() => {
     console.log("running before each test")
 
